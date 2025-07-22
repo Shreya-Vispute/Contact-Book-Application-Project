@@ -17,12 +17,6 @@ A simple yet effective **Contact Book** application that runs in the command-lin
 - **Command-line Interface (CLI)**
 ---
 
-## 📁 Project Structure
-contact-book/
-├── contact_book.py # Main Python script
-├── contacts.txt # Stores contact data (auto-created)
-└── README.md # Project documentation
-
 ## ▶️ How to Run
 
 1. 📥 Download the repository:
@@ -40,6 +34,7 @@ contact-book/
 2. View All Contacts
 3. Search Contact
 4. Exit
+
 ============================
 Enter your choice:
 
