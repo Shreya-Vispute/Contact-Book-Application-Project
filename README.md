@@ -21,7 +21,7 @@ A simple yet effective **Contact Book** application that runs in the command-lin
 
 1. 📥 Download the repository:
    ```bash
-   git clone https://github.com/yourusername/contact-book.git
+   git clone https://github.com/Shreya-Vispute/Contact-Book-Application-Project.git
    cd contact-book
 2. ▶️ Run the Python script:
 - python contact_book.py
@@ -36,6 +36,7 @@ A simple yet effective **Contact Book** application that runs in the command-lin
 4. Exit
 
 ============================
+
 Enter your choice:
 
 ## 💡 How It Works
